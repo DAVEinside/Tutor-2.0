@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  gpt4v-math-tutor:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./static:/app/static
+      - ./templates:/app/templates
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge
