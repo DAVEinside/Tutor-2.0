@@ -9,15 +9,26 @@ A clean, powerful real-time mathematical analysis system using **GPT-4o** for su
 - Auto-deactivation after image capture
 - Professional camera state management
 
+<img width="1522" height="768" alt="image" src="https://github.com/user-attachments/assets/3dac0d88-e3e7-4fe2-8c22-4d7dfced4444" />
+
+
 🧮 **Mathematical Equation Rendering**
 - Beautiful MathJax integration for proper mathematical notation
 - Automatic detection and formatting of equations
 - Support for fractions, powers, square roots, and complex expressions
 
+<img width="1523" height="806" alt="image" src="https://github.com/user-attachments/assets/bdd6e255-b004-4da6-a166-9cb69af3ea4a" />
+
+
 🤖 **GPT-4o Intelligence**
 - Advanced JSON parsing with fallback mechanisms
 - Interactive follow-up questions for deeper learning
 - Clean, formatted output instead of raw JSON
+
+<img width="1536" height="805" alt="image" src="https://github.com/user-attachments/assets/dfc9b6fc-31fd-4226-871b-febf679c58fc" />
+<img width="1537" height="773" alt="image" src="https://github.com/user-attachments/assets/7701a14a-5d7d-4092-aa33-6dd0ae6f10ff" />
+
+
 
 📱 **Modern Web Interface**
 - Drag-and-drop image upload
